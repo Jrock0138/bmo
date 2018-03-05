@@ -2,9 +2,9 @@
 BMO Documentation (bugzilla.mozilla.org)
 ========================================
 
-.. toctree::
-   :maxdepth: 1
-   :numbered: 4
+.. toctree:
+   :maxdepth
+   :numbered
 
    about/index
    using/index
